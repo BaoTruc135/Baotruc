@@ -19,7 +19,7 @@
 .thucdon a {
   color: white;
 }
-.thucdon a:hover {
+.thucdon a hover {
   color: black;
   background-color: yellow;
 }
