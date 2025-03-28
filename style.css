@@ -1,25 +1,26 @@
 {
-  height: 100%;
-  width: 100%;
-}
-
-.tieude {
-  color: pink ;
-  text-align: center ;
-  padding: 20px;
-}
-.thucdon {
-  color: black;
-  padding: 15px;
-  display: block;
-  float: left;
-}
-.thucdon a {
-  color: pink;
-}
-.thucdon a :hover {
-  color: blue;
-}
-.noidung {
-  color:pink; 
-}
+    height: 100%;
+    width: 100%;
+  }
+  
+  .tieude {
+    color: pink ;
+    background-color: black;
+    text-align: center ;
+    padding: 20px;
+  }
+  .thucdon {
+    color: black;
+    padding: 15px;
+    display: block; 
+  }
+  .thucdon a {
+    color: black;
+  }
+  .thucdon a :hover {
+    color: blue;
+  }
+  .noidung {
+    color:pink; 
+  }
+  
