@@ -4,14 +4,12 @@
 }
 
 .tieude {
-  color: pink ;
-  background-color: red ;
+  color: pink 
   text-align: center ;
   padding: 20px;
 }
 .thucdon {
   color: black;
-  background-color: pink;
   padding: 5px;
   display: block;
   float: left;
@@ -20,10 +18,8 @@
   color: pink;
 }
 .thucdon a :hover {
-  color: black;
-  background-color: yellow;
+  color: blue;
 }
 .noidung {
   color:pink; 
-  background-color:blue 
 }
