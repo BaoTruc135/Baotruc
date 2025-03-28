@@ -3,7 +3,7 @@
   width: 100%;
 }
 
-.phandau {
+.phandau{
   color: pink;
   background-color: red;
   text-align: center;
@@ -19,7 +19,7 @@
 .thucdon a {
   color: pink;
 }
-.thucdon a hover {
+.thucdon a :hover {
   color: black;
   background-color: yellow;
 }
