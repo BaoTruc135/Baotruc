@@ -4,23 +4,23 @@
   width: 100%;
 }
 
-.td {
+.phandau {
   color: White;
   background-color: red;
   text-align: center;
   padding: 20px;
 }
-.muc {
+.thucdon {
   color: black;
   background-color: pink;
   padding: 5px;
   display: block;
   float: left;
 }
-.demuc a {
+.thucdon a {
   color: white;
 }
-.demuc a:hover {
+.thucdon a:hover {
   color: black;
   background-color: yellow;
 }
