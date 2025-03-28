@@ -4,7 +4,7 @@
 }
 
 .phandau {
-  color: White;
+  color: pink;
   background-color: red;
   text-align: center;
   padding: 20px;
@@ -17,7 +17,7 @@
   float: left;
 }
 .thucdon a {
-  color: white;
+  color: pink;
 }
 .thucdon a hover {
   color: black;
